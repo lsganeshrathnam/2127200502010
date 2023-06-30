@@ -1,1 +1,9 @@
+Request :
 
+{
+	"companyName": "Road Train",
+	"ownerName": "ABC",
+	"rollNo": "12",
+	"ownerEmail": "abc@xyz.edu",
+	"accessCode": "nNPGsi"
+}
