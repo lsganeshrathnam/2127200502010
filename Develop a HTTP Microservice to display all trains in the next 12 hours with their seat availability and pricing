@@ -7,3 +7,13 @@ Request :
 	"ownerEmail": "abc@xyz.edu",
 	"accessCode": "nNPGsi"
 }
+
+Credentials on registering company  : 
+{
+	"companyName": "Road Train",
+	"clientID": "01e49891-fa36-4fc2-872a-8c0fe8aa1a24",
+	"clientSecret": "VAClOEaCEmEUmEtN",
+	"ownerName": "ABC",
+	"ownerEmail": "abc@xyz.edu",
+	"rollNo": "13"
+}
